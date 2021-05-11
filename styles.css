@@ -1,0 +1,12 @@
+.attribution {
+  color: white;
+  font-size: 12px;
+  padding-top: 50px;
+  color: black;
+  font-family: "Lexend Deca", sans-serif;
+}
+
+.attribution > a {
+  text-decoration: none;
+  color: black;
+}
