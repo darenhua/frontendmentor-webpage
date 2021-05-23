@@ -54,7 +54,7 @@ header {
 }
 
 .header-line {
-  width: 1000px;
+  width: 90%;
   display: block;
   font-family: "Poppins", sans-serif;
   color: hsl(192, 100%, 9%);
@@ -63,7 +63,7 @@ header {
 }
 
 .header-description {
-  width: 600px;
+  width: 45%;
   font-family: "Open Sans", sans-serif;
   font-size: 18px;
   color: hsl(192, 100%, 9%);
@@ -105,7 +105,7 @@ header {
 
 .screens-graphic {
   margin: 0 auto;
-  min-width: 100px;
+  max-width: 90%;
   display: block;
 }
 
